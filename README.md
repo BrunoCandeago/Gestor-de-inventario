@@ -27,7 +27,7 @@ Al estar construido con **Maven**, la configuración de este proyecto es automá
 
 1. **Clona el repositorio** en tu máquina local:
    ```bash
-   git clone [https://github.com/BrunoCandeago/Gestor-de-inventario.git](https://github.com/BrunoCandeago/Gestor-de-inventario.git)
+   git clone https://github.com/BrunoCandeago/Gestor-de-inventario.git
    ```
 
 2. **Abre el proyecto** en tu IDE favorito (como IntelliJ IDEA, Eclipse o VS Code).
